@@ -1,11 +1,12 @@
 {
   "name": "yojiro",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "62486d934d8bba5653b1c4e9ac08f037b0b59621"
 }
