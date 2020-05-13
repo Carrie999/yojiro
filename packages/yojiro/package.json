@@ -1,6 +1,6 @@
 {
   "name": "yojiro",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "62486d934d8bba5653b1c4e9ac08f037b0b59621"
+  "gitHead": "80191a189136d7bf0ca05446f51bf6d734bb4c9e"
 }
