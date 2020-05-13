@@ -1,0 +1,32 @@
+{
+  "name": "yojiro-set",
+  "version": "0.0.1",
+  "description": "Imitate umijs to learn node and how to make wheels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carrie999/yojiro.git"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "carrie999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carrie999/yojiro/issues"
+  },
+  "homepage": "https://github.com/Carrie999/yojiro#readme",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "workspaces": [
+    "packages/*",
+    "packages/commands/*",
+    "packages/utils/*"
+  ],
+  "dependencies": {}
+}
